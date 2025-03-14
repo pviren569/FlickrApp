@@ -48,10 +48,3 @@ To run unit tests, open **Xcode** and go to:
 
 - **Product** > **Test** or press `Cmd + U`
 - This will execute the test case
-
-**Demo**
-
-<video width="600" controls>
-  <source src="https://github.com/pviren569/FlickrApp/blob/main/Demo.mp4">
-</video>
-
